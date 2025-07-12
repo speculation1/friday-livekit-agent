@@ -1,6 +1,9 @@
 fastapi
 uvicorn
+gtts
 edge-tts
-requests
 aiohttp
+speechrecognition
+pyaudio
+requests
 
