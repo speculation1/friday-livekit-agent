@@ -6,4 +6,5 @@ aiohttp
 speechrecognition
 pyaudio
 requests
+git+https://github.com/livekit/client-sdk-python.git
 
